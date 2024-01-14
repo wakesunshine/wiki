@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c1a62531e819ce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/test-demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "19e011dbebd42b3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sb-demo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wiki/wiki-demo.md",
+                "file": "wiki/sb-demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wiki/wiki-demo.md",
+                "file": "wiki/sb-demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/wiki-demo.md"
+                "file": "wiki/sb-demo.md"
               }
             }
           },
@@ -142,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,8 +182,16 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "6ec5f3b2af2ea10c",
+  "active": "19e011dbebd42b3c",
   "lastOpenFiles": [
+    "wiki/image/未命名/sb-demo_image_1.png",
+    "wiki/image/sb-demo",
+    "wiki/test-demo.md",
+    "wiki/sb-demo.md",
+    "wiki/image/未命名",
+    "wiki/image/未命名/test-demo_image_1.png",
+    "wiki/image/test-demo",
+    "wiki/wiki-demo.md",
     "wiki/image/wiki-demo/wiki-demo_image_1.png",
     "wiki/image/wiki-demo",
     "wiki/image",
@@ -178,12 +212,8 @@
     "structure/assets/README/README_image_2.png",
     "structure/assets/README/README_image_3.png",
     "structure/assets/README/README_image_4.png",
-    "structure/assets/README/README_image_3.png",
     "structure/atest.md",
     "structure/assets/atest",
-    "Excalidraw",
-    "structure/images.assets",
-    "structure/{{fileName}}.assets",
     "image.canvas",
     "未命名 2.md",
     "未命名 1.md",
