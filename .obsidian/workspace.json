@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ubuntu-nginx-vts/README.md",
+                "file": "wiki/wiki-demo.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ubuntu-nginx-vts/README.md",
+                "file": "wiki/wiki-demo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ubuntu-nginx-vts/README.md",
+                "file": "wiki/wiki-demo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ubuntu-nginx-vts/README.md"
+                "file": "wiki/wiki-demo.md"
               }
             }
           },
@@ -158,6 +158,13 @@
   },
   "active": "6ec5f3b2af2ea10c",
   "lastOpenFiles": [
+    "wiki/image/wiki-demo/wiki-demo_image_1.png",
+    "wiki/image/wiki-demo",
+    "wiki/image",
+    "wiki/assets/wiki-demo/wiki-demo_image_2.png",
+    "wiki/assets/wiki-demo/wiki-demo_image_1.png",
+    "wiki/assets/wiki-demo",
+    "wiki/assets",
     "structure/README.md",
     "ubuntu-nginx-vts/README.md",
     "README.md",
@@ -177,11 +184,9 @@
     "Excalidraw",
     "structure/images.assets",
     "structure/{{fileName}}.assets",
-    "images",
     "image.canvas",
     "未命名 2.md",
     "未命名 1.md",
-    "未命名.md",
-    "structure"
+    "未命名.md"
   ]
 }
