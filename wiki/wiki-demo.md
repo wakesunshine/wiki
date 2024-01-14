@@ -1,1 +1,6 @@
-![[Pasted image 20240114143357.png]]
+![](wiki-demo_image_1.png)
+
+![](wiki-demo_image_2.png)
+
+![](wiki-demo_image_3.png)
+

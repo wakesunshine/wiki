@@ -1,1 +1,8 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "./image/wiki-demo",
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current"
+}
