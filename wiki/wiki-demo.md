@@ -2,5 +2,3 @@
 
 ![](wiki-demo_image_2.png)
 
-![](wiki-demo_image_3.png)
-

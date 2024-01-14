@@ -1,8 +1,10 @@
 {
-  "useMarkdownLinks": true,
-  "attachmentFolderPath": "./image/wiki-demo",
-  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./assets/README",
   "promptDelete": false,
-  "showUnsupportedFiles": true,
-  "newFileLocation": "current"
+  "livePreview": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }
